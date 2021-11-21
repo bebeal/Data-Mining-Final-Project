@@ -1,0 +1,25 @@
+Predicting:
+- Genre
+- Popularity
+
+Features we need:
+
+
+Features to clean/remove:
+- Song ID
+- Song Name
+- 
+
+
+Classification Algos:
+- Neural Net (MLP)
+- Decision Tree
+- KNN
+- Ensemble Method
+
+
+- outlier detection
+- check for missing features
+- bin features, map features to numerical values/one hot encoding
+- make classifiers
+- classify
